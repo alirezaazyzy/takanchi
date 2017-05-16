@@ -6,7 +6,7 @@
 
 #نصب
 ```
-git clone https://github.com/takans/takanir.git && cd locki && chmod 777 install.sh && chmod +x locki.sh && ./install.sh
+git clone https://github.com/takans/takanir.git && cd locki && chmod 777 install.sh && chmod +x takan.sh && ./install.sh
 ```
  
 #ساختن و ران کردن
