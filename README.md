@@ -1,12 +1,12 @@
 
-
-ستاره فراموش نشه
-
+============================
+آموزش راه اندازی رباتها
+++++++++++++++++++++++++++++
 مراحل روبترتیب انجام بدین
 
 #نصب
 ```
-git clone https://github.com/takans/takanir.git && cd locki && chmod 777 install.sh && chmod +x takan.sh && ./install.sh
+git clone https://github.com/takanir/takanchi.git && cd takanchi && chmod 777 install.sh && chmod +x takan.sh && ./install.sh
 ```
  
 #ساختن و ران کردن
@@ -85,20 +85,15 @@ lua creator.lua
 بجای2شماره دلخواه وارد شده
 
 
-#لانچ همگانی
- 
-شما میتوانید با انتی کرش موجود هم همه رباتهارو با یک کد لانچ کنید هم حافظه کش سرور رو پاک کنید وهم از اف شدن ربات جلوگیری کنید
-
-
-برای ران کردن همه رباتها درصورت خاموشی کدهای زیررا وارد کنید
-
+#اجرای همه رباتها 
+زمانی که سرور خاموش شد دوباره اجرا کردید دستور زیر روبزنید
 
 ```
-cd takanir
+cd takanchi
 
 ./takan.sh
 ```
-help :نمایش دستورات در گروه
+help : نمایش دستورات در ربات
 
 
 #My page: [@takan_ir](http://telegram.me/takan_ir)
