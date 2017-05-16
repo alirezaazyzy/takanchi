@@ -6,7 +6,7 @@
 
 #نصب
 ```
-git clone https://github.com/TeleRock/locki.git && cd locki && chmod 777 install.sh && chmod +x locki.sh && ./install.sh
+git clone https://github.com/takans/takanir.git && cd locki && chmod 777 install.sh && chmod +x locki.sh && ./install.sh
 ```
  
 #ساختن و ران کردن
@@ -29,7 +29,7 @@ Enter Sudo Id
 
 ایدی عددی خودتون رو وارد کنید
 
-#ران
+#اجرا
 
 اگه در بخش قبل 1 زدین کد زیر رو وارد کنید
 ```
@@ -41,7 +41,7 @@ Enter Sudo Id
 
 شماره  بصورت زیر وارد کنید
 
-+7968315****
++123456****
 
 سپس کد رو وارد کنید
 
@@ -52,7 +52,7 @@ Enter Sudo Id
 کدهای زیر را بترتیب بزنید
 
 ```
-cd locki
+cd takanir
 
 screen ./tabchi-1.sh
 ```
@@ -94,13 +94,14 @@ lua creator.lua
 
 
 ```
-cd locki
+cd takanir
 
-./locki.sh
+./takan.sh
 ```
 help :نمایش دستورات در گروه
 
 
-#Opened By: [@Iocki](http://telegram.me/Iocki)
+#My page: [@takan_ir](http://telegram.me/takan_ir)
 
-#Developer: Amirsbss
+
+#I am not Developer, just editor.
